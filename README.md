@@ -2,7 +2,12 @@
 
 🚀 Full-Stack Developer | MERN & Next.js Specialist | AI & Machine Learning Enthusiast | Lifelong Learner
 
-[LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-mukhtar-530804268/)
+<p>
+  <a href="https://www.linkedin.com/in/rahma-mukhtar-530804268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 
 ---
 
