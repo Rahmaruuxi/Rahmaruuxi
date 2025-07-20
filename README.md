@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahma Moktar
 
-<!--
-**Rahmaruuxi/Rahmaruuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN & Next.js Specialist | AI & Machine Learning Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+[LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-mukhtar-530804268/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+- 🌍 I'm a **Full-Stack Web Developer** with a strong foundation in both frontend and backend development.
+- 🌱 Specialized in the **MERN Stack** and **Next.js** for building powerful web apps.
+- 💾 Experienced with **MySQL & PHP** for server-side and relational DB projects.
+- 🧠 Currently exploring **Python for AI/ML** — working with Pandas, NumPy, and Scikit-learn.
+- 🧪 Passionate about building web apps that solve real problems.
+- 📧 Reach me: **rahmaruun442@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Frontend
+- React.js, **Next.js**, HTML5, CSS3, JavaScript, Tailwind CSS
+
+### ⚙️ Backend
+- Node.js, Express.js, PHP, FastAPI (learning)
+
+### 💾 Databases
+- MongoDB, MySQL, PostgreSQL
+
+### 🤖 Machine Learning
+- Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebooks
+
+### 📱 Mobile (Learning)
+- Flutter, Dart
+
+### 🧰 Tools & Platforms
+- Git, GitHub, VS Code
+
+---
+
+## 🔥 Tech Icons
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Rahmaruuxi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahmaruuxi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaruuxi&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-mukhtar-530804268/)
+
+---
+
+_Thanks for stopping by! I'm always open to new opportunities and collaborations._
