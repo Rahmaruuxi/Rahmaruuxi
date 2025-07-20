@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahma Moktar
 
-🚀 Full-Stack Developer | MERN & Next.js Specialist | AI & Machine Learning Enthusiast | Lifelong Learner
+🚀 Full-Stack Developer| AI & Machine Learning Enthusiast | Lifelong Learner
 
 <p>
   <a href="https://www.linkedin.com/in/rahma-mukhtar-530804268/" target="_blank">
