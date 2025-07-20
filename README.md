@@ -3,9 +3,11 @@
 🚀 Full-Stack Developer| AI & Machine Learning Enthusiast | Lifelong Learner
 
 <p>
-  <a href="https://www.linkedin.com/in/rahma-mukhtar-530804268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/rahma-mukhtar-530804268/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
+</p>
+
 
 
 ---
