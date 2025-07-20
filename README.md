@@ -65,12 +65,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaruuxi&layout=compact&theme=tokyonight)
 
----
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-mukhtar-530804268/)
-
----
-
-_Thanks for stopping by! I'm always open to new opportunities and collaborations._
