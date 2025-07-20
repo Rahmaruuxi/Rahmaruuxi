@@ -36,9 +36,6 @@
 ### 🤖 Machine Learning
 - Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebooks
 
-### 📱 Mobile (Learning)
-- Flutter, Dart
-
 ### 🧰 Tools & Platforms
 - Git, GitHub, VS Code
 
