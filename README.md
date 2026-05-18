@@ -19,7 +19,7 @@
 - 💾 Experienced with **MySQL & PHP** for server-side and relational DB projects.
 - 🧠 Currently exploring **Python for AI/ML** — working with Pandas, NumPy, and Scikit-learn.
 - 🧪 Passionate about building web apps that solve real problems.
-- 📧 Reach me: **rahmaruun442@gmail.com**
+- 📧 Reach me: **raxma.muktarr@gmail.com**
 
 ---
 
